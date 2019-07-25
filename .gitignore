@@ -1,4 +1,6 @@
-.iml
-.class
+*.iml
+*.class
 .idea/
 out/
+target/
+.idea
