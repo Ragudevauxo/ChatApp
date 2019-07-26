@@ -10,3 +10,5 @@ target/
 *.project
 HELP.md
 mvnw
+*.cmd
+mvnw.cmd
