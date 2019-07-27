@@ -6,5 +6,7 @@ import com.auxo.main.model.Model;
 
 public interface Repository extends JpaRepository<Model, Integer> {
 
+
+
 	}
 
