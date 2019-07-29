@@ -13,7 +13,9 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 @ComponentScan({"com.auxo.main.controllers"})
 @EntityScan("com.auxo.main.Dao")
 @EnableJpaRepositories("com.auxo.main.repository")
-public class ChatAppApplication extends SpringBootServletInitializer{
+public class ChatAppApplication 
+
+{
 
 	public static void main(String[] args) {
 		SpringApplication.run(ChatAppApplication.class, args);
