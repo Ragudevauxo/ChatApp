@@ -1,7 +1,7 @@
-.idea/[24*.idea/
-*out/
-[A[C[Bout/
-.classpath
-.project
-.DS_Store
+*.idea/
+idea/
 ._.DS_Store
+.classpath
+.DS_Store
+.project
+out/
